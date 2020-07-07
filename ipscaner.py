@@ -8,7 +8,6 @@ if user==d_user and passw== d_passw:
     x = input ("enter number")
     if x == ("1"):
         ip = input("enter ip")
-        import test_ipaddress
         print ("not found")
     if x == ("2"):
         print ("thank you bey")
