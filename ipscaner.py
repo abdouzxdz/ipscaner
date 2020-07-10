@@ -11,7 +11,7 @@ if user==d_user and passw== d_passw:
         print ("not found")
     if x == ("2"):
         print ("thank you bey")
-    else:
-        print ("chose teru number")
-        import xz
-                
+else:
+    print ("chose teru number")
+    import zx
+        
