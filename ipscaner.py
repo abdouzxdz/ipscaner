@@ -13,5 +13,5 @@ if user==d_user and passw== d_passw:
         print ("thank you bey")
 else:
     print ("chose teru number")
-    import zx
+import zx
         
